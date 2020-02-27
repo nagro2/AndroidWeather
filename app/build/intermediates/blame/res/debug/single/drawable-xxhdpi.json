@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/njadeb64/AndroidStudioProjects/WeatherApp3/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_launcher.png",
+        "source": "/home/njadeb64/AndroidStudioProjects/WeatherApp3/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/njadeb64/AndroidStudioProjects/WeatherApp3/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_launcherx.png",
+        "source": "/home/njadeb64/AndroidStudioProjects/WeatherApp3/app/src/main/res/drawable-xxhdpi/ic_launcherx.png"
+    }
+]

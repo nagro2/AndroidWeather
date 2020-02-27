@@ -1,0 +1,133 @@
+[
+    {
+        "outputFile": "/home/njadeb64/AndroidStudioProjects/WeatherApp3/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/home/njadeb64/AndroidStudioProjects/WeatherApp3/app/src/main/res/values/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "/home/njadeb64/AndroidStudioProjects/WeatherApp3/app/src/main/res/values/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "/home/njadeb64/AndroidStudioProjects/WeatherApp3/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 54,
+                    "endOffset": 272
+                },
+                "from": {
+                    "file": "/home/njadeb64/AndroidStudioProjects/WeatherApp3/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 277,
+                    "endLine": 8,
+                    "endColumn": 12,
+                    "endOffset": 355
+                },
+                "from": {
+                    "file": "/home/njadeb64/AndroidStudioProjects/WeatherApp3/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 360,
+                    "endLine": 11,
+                    "endColumn": 12,
+                    "endOffset": 427
+                },
+                "from": {
+                    "file": "/home/njadeb64/AndroidStudioProjects/WeatherApp3/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 432,
+                    "endLine": 14,
+                    "endColumn": 11,
+                    "endOffset": 581
+                },
+                "from": {
+                    "file": "/home/njadeb64/AndroidStudioProjects/WeatherApp3/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 586,
+                    "endLine": 17,
+                    "endColumn": 11,
+                    "endOffset": 735
+                },
+                "from": {
+                    "file": "/home/njadeb64/AndroidStudioProjects/WeatherApp3/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 740,
+                    "endLine": 21,
+                    "endColumn": 9,
+                    "endOffset": 935
+                },
+                "from": {
+                    "file": "/home/njadeb64/AndroidStudioProjects/WeatherApp3/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 940,
+                    "endLine": 25,
+                    "endColumn": 11,
+                    "endOffset": 1137
+                },
+                "from": {
+                    "file": "/home/njadeb64/AndroidStudioProjects/WeatherApp3/app/src/main/res/values/styles.xml"
+                }
+            }
+        ]
+    }
+]
