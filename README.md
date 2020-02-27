@@ -1,2 +1,1 @@
-Android Astronomy app that obtains weather via Web API and displays conditions plus outlook for telescope observations.
-Includes code from survivingwithandroid.com.
+Android Astronomy app that obtains weather via Web API and displays conditions plus outlook for telescope observations. Indicates cloud cover and precipiataion as these directly affect telescopic observations, humidity as this can affect sky clarity, and wind conditions as they effect comfort. "Astronomy Outlook" is based on these conditions. Includes code from survivingwithandroid.com.
